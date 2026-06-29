@@ -1,0 +1,7 @@
+# 物理封锁本地裸编译产生的所有中间件临时缓存
+**/bin/
+**/obj/
+
+# 物理封锁集结成果物（保护发布权）
+release/CADIME.25.0.dll
+release/CADIME.26.0.dll
