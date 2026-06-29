@@ -18,3 +18,15 @@
 2.  特定命令打字期：中文打字行云流水，期间允许用户手任意手动乱切各种中文输入法厂商。
 3.  完成回车/ESC取消瞬间：硬件钩子卡死分流，物理输入法 毫无挂滞、极速单次强制跳变退回英文状态，彻底降服输入法死锁顽疾。
 
+This plugin supports AutoCAD 2008–2027. Full testing has been performed solely on AutoCAD 2027; compatibility with earlier versions is presumed based on API consistency.
+AutoCAD 2008      ➔ CADIME.20.dll
+AutoCAD 2009-2012 ➔ CADIME.35.dll
+AutoCAD 2013-2014 ➔ CADIME.40.dll
+AutoCAD 2015-2016 ➔ CADIME.45.dll
+AutoCAD 2017-2018 ➔ CADIME.46.dll
+AutoCAD 2019-2020 ➔ CADIME.47.dll
+AutoCAD 2021-2024 ➔ CADIME.48.dll
+AutoCAD 2025-2026 ➔ CADIME.2025.dll
+AutoCAD 2027      ➔ CADIME.2027.dll
+
+by 2026-6-29
