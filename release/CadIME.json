@@ -1,0 +1,32 @@
+{
+    "Description": "CadIME Configuration File",
+    "ChineseCommands": [
+        "T",
+        "TEXT",
+        "MTEXT",
+        "DTEXT",
+        "MT",
+        "-TEXT",
+        "-MTEXT",
+        "DDEDIT",
+        "TEXTEDIT",
+        "MTEDIT",
+        "_MTEDIT",
+        "DEDIT",
+        "DED",
+        "QLEADER",
+        "LEADER",
+        "LE",
+        "EATTEDIT",
+        "ATTEDIT",
+        "ATTDEF",
+        "BATTMAN",
+        "FIELD",
+        "TB",
+        "TABLE",
+        "TABLEDIT",
+        "FIND"
+    ],
+    "LogLevel": "Information",
+    "DebugMode": false
+}
