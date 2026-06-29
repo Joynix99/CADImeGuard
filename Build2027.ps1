@@ -4,7 +4,7 @@ Write-Host "================ [CadIME Modern 强攻全编译引擎 2027] ========
 # 1. 锁死编译核心与输出路径
 $cscPath = "C:\Program Files\dotnet\sdk\8.0.422\Roslyn\bincore\csc.dll"
 $releaseDir = "E:\Soft\CAD\D\CADIme\release"
-$hostOut = "$releaseDir\CADIME.10.dll"
+$hostOut = "$releaseDir\CADIME.2027.dll"
 
 if (!(Test-Path $releaseDir)) { New-Item -ItemType Directory -Path $releaseDir | Out-Null }
 
